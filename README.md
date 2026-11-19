@@ -38,10 +38,10 @@ Abhishek Kumar
 ## Dashboard Preview
 
 ### KPI Overview
-![KPI Dashboard](KPI  &  SLICERS  Page image.png)
+[KPI Dashboard](KPI  &  SLICERS  Page image.jpg)
 
 ### Sales Analysis
-![Sales Dashboard](charts page image.png)
+[Sales Dashboard](charts page image.jpg)
 
 ## Project Status
 Completed
