@@ -18,6 +18,12 @@ An interactive Power BI dashboard developed to analyse Blinkit's sales performan
 - Data Cleaning
 - Data Visualization
 - Business Intelligence
+- Data Cleaning and Transformation
+- Data Modelling
+- DAX Measures
+- KPI Development
+- Interactive Dashboard Design
+- Business Data Analysis
 
 ## Tools Used
 - Microsoft Power BI
@@ -35,14 +41,6 @@ An interactive Power BI dashboard developed to analyse Blinkit's sales performan
 - Sales by Category
 - Monthly Sales Trend
 - Interactive Region and Date Filters
-
-## Key Skills Demonstrated
-- Data Cleaning and Transformation
-- Data Modelling
-- DAX Measures
-- KPI Development
-- Interactive Dashboard Design
-- Business Data Analysis
 
 ## Project Files
 - Power BI Dashboard (.pbix)
