@@ -41,7 +41,7 @@ Abhishek Kumar
 ![KPI Dashboard](./KPI&Slicersimage.jpg)
 
 ### Sales Analysis
-![Sales Dashboard](./Chartsimage.jpg)
+![Sales Dashboard](./chartsimage.jpg)
 
 ## Project Status
 Completed
