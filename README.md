@@ -3,6 +3,22 @@
 ## Project Overview
 An interactive Power BI dashboard developed to analyse Blinkit's sales performance and business insights.
 
+## Dashboard Preview
+
+### KPI Overview
+![KPI Dashboard](./KPI&Slicersimage.jpg)
+
+### Sales Analysis
+![Sales Dashboard](./chartsimage.jpg)
+
+## Skills Demonstrated
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+
 ## Tools Used
 - Microsoft Power BI
 - Power Query
@@ -35,21 +51,6 @@ An interactive Power BI dashboard developed to analyse Blinkit's sales performan
 
 ## Author
 Abhishek Kumar
-## Dashboard Preview
-
-### KPI Overview
-![KPI Dashboard](./KPI&Slicersimage.jpg)
-
-### Sales Analysis
-![Sales Dashboard](./chartsimage.jpg)
-## Skills Demonstrated
-- Power BI
-- Power Query
-- DAX
-- Data Cleaning
-- Data Visualization
-- Business Intelligence
-
 ## Project Status
 Completed
 
