@@ -35,3 +35,13 @@ An interactive Power BI dashboard developed to analyse Blinkit's sales performan
 
 ## Author
 Abhishek Kumar
+## Dashboard Preview
+
+### KPI Overview
+![KPI Dashboard](Dashboard_Page1.png)
+
+### Sales Analysis
+![Sales Dashboard](Dashboard_Page2.png)
+
+## Project Status
+Completed
