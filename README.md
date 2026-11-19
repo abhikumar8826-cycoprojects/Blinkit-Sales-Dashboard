@@ -42,6 +42,14 @@ Abhishek Kumar
 
 ### Sales Analysis
 ![Sales Dashboard](./chartsimage.jpg)
+## Skills Demonstrated
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
 
 ## Project Status
 Completed
+
